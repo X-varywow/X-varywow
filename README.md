@@ -1,6 +1,6 @@
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=X-varywow&show_icons=true&theme=radical)](https://github.com/X-varywow)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=X-varywow&show_icons=true)](https://github.com/X-varywow)
 
 ### Hi 👋
 
