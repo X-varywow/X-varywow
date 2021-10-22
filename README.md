@@ -5,5 +5,5 @@
 - 📧 我的邮箱：1641323338@qq.com
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=huanghaozi&show_icons=true)](https://github.com/X-varywow)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanghaozi&layout=compact)](https://github.com/X-varywow)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=X-varywow&show_icons=true)](https://github.com/X-varywow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-varywow&layout=compact)](https://github.com/X-varywow)
