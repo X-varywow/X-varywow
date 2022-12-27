@@ -12,7 +12,7 @@
 - Python 及常用第三方库
 - 机器学习基础
 - 前端基础（html css js）
-- bootstrap, sql，微信小程序
+- bootstrap, sql，微信小程序，electron
 - 学过用的少：c/cpp/
-- 感兴趣学过：Arduino/unity
+- 感兴趣学过：Arduino/unity/php
 - leetcode 1858分， kaggle 解锁中
