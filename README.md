@@ -15,4 +15,3 @@
 - bootstrap, sql，微信小程序，electron
 - 学过用的少：c/cpp/
 - 感兴趣学过：Arduino/unity/php
-- leetcode 1858分， kaggle 解锁中
